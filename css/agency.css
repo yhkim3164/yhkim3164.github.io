@@ -339,6 +339,10 @@ section h4 {
     font-weight: 400;
     margin-bottom: 20px;
 }
+section#about{
+    padding-top: 30px;
+}
+section#about img{width: 100%; text-align: center;}
 
 @media (min-width: 768px) {
     section {
